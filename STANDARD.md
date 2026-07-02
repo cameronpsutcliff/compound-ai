@@ -1,7 +1,7 @@
 # Compound AI Operating Standards
 ## The Six-Layer Standard
 
-Version: v3.0.7
+Version: v3.0.9
 Authors: Cameron Sutcliff (cameronpsutcliff), Joshua Sutcliff (joshuadsutcliff)
 
 ---
@@ -160,7 +160,7 @@ what is advisory rather than mechanically enforced.
 
 ## Version history
 
-- v3.0.7 (2026-06-19): roster-accuracy pass, no doctrine change. The four skills
+- v3.0.9 (2026-06-19): roster-accuracy pass, no doctrine change. The four skills
   retired in the v3.0.0 merge (context-loader and pattern-promoter folded into
   memory; provenance-check folded into release-captain's ship-gate provenance
   step; trigger-indexer demoted to the check-registry-coherence.sh CI invariant)

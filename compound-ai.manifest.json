@@ -7,12 +7,12 @@
   ],
   "canonical_url": "https://cameronsutcliff.com/compound-ai",
   "source_repo": "https://github.com/cameronpsutcliff/compound-ai",
-  "version": "3.0.7",
-  "release_date": "2026-06-19",
+  "version": "3.0.9",
+  "release_date": "2026-07-02",
   "license_docs": "CC-BY-4.0",
   "license_code": "Apache-2.0",
-  "generated_at": "2026-06-20T03:38:04.894387+00:00",
-  "aggregate_sha256": "7713e88ad86455e35b05edb0aa78df05b4fdc25a832e72ac4f5f020374ba7e8f",
+  "generated_at": "2026-07-02T16:55:09.584096+00:00",
+  "aggregate_sha256": "1d0b59331867ec70e0c766371b54c5e975df9950c5461e3b3a4eba7165ab651b",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/bug_report.md",
@@ -42,12 +42,12 @@
     {
       "path": "AGENT.md",
       "bytes": 3769,
-      "sha256": "770d2f0893cf8ec3833a5ec2cea9cbd8446a2cf5544ec567b5e3c1f2d01a0849"
+      "sha256": "4b76a73591588902fa8ab93abc99704474f8eaf3d5db75712aff35538f1aec77"
     },
     {
       "path": "CITATION.cff",
       "bytes": 922,
-      "sha256": "399a2277247f4444b18328633fad8b263d0e4df239e3fa3e4fb3395cb9673679"
+      "sha256": "980b30ac70f2c279072ea34f03af358157d774521af670c8ee5653210b3a2ee7"
     },
     {
       "path": "CLAUDE.md",
@@ -67,7 +67,7 @@
     {
       "path": "HANDOFF.md",
       "bytes": 7451,
-      "sha256": "ca1d75864bdb8270c682172c01c22c676b7dc72c545147c229e890aaab209e64"
+      "sha256": "8d0049759daee790509334934b525fdeddd503bbdb0f82176a451f9ee05383e4"
     },
     {
       "path": "LICENSE",
@@ -87,17 +87,17 @@
     {
       "path": "NOTICE.md",
       "bytes": 1055,
-      "sha256": "b821b733b41664a3254fde2c44d21265b60d2e890c09ff311f2bd0a59c7622dc"
+      "sha256": "207b5e690eeafeaa25ec8ebadfc56fa7f630ad5961049a9cbff1065761dc2396"
     },
     {
       "path": "README.md",
       "bytes": 8916,
-      "sha256": "78cc1150b6ac84f7f00b5c11d27cec1e9da2f3518def95696899adc382f1b482"
+      "sha256": "febf7145cf4c3b6f5245ad35fe0cc595c8e6fa5de4567ac9f2a9d8e83adaabd7"
     },
     {
       "path": "RELEASES.md",
-      "bytes": 18479,
-      "sha256": "0f5ad9c0fe65c7509712a78f7240e9f5812153abc0d7004db45447c1a99fc3d2"
+      "bytes": 19436,
+      "sha256": "a1d7e1ea591431db05d862d41d565c9dc98233dc66a824a0d15df4a191ef877a"
     },
     {
       "path": "SECURITY.md",
@@ -107,7 +107,7 @@
     {
       "path": "STANDARD.md",
       "bytes": 11239,
-      "sha256": "790e4522219ffd6ef728c2617e227ea89b74c8ed841e60cdb180722b8af02e25"
+      "sha256": "72cd4dc8adab466716d26b65a5506c89c2d62ee7cf383ffcad5196a662eb96b3"
     },
     {
       "path": "_citations.md",
@@ -117,12 +117,12 @@
     {
       "path": "_map.md",
       "bytes": 2659,
-      "sha256": "722b0b8335ab86f6c3a9e3cd0e3fb0f3a87214fef8dcca6cbac83dbe3f79a36c"
+      "sha256": "4cca7196c7d2456825e6320fdcfb49806fa1fcf9b083ba76765e9b848f3495de"
     },
     {
       "path": "_skills-index.md",
       "bytes": 9075,
-      "sha256": "655b906f32ac57a15b4def15d144606342cdb7ba7a87b2683349190bac86185e"
+      "sha256": "f54be177d67602fa160293d9e978639893dd639e5b2c0891b574524e37988ad6"
     },
     {
       "path": "_tiers.md",
@@ -182,7 +182,7 @@
     {
       "path": "codemeta.json",
       "bytes": 1104,
-      "sha256": "9cb81a2a69451c9270da54e9325d198e5c1dec61c31962524feb6603b1ea294a"
+      "sha256": "8eae6963b7126a5be453f0721cb7c71211d231d873896711f4c55e12dc34da9d"
     },
     {
       "path": "docs/ARCHITECTURE.md",
@@ -196,8 +196,18 @@
     },
     {
       "path": "docs/FIELD-GUIDE.md",
-      "bytes": 142978,
-      "sha256": "8cdee1a6d658bce3c6385943503aaca59d9e9feb9a533baa65879ccb27886640"
+      "bytes": 151081,
+      "sha256": "79b6935e0e9e38c6e8856659fb5f43c8b48820e360677ffb997467d96768deb4"
+    },
+    {
+      "path": "docs/derived-not-typed.md",
+      "bytes": 5155,
+      "sha256": "b600138ff1eba1441efe0f38d1368475ce53e3c391ebb6963954ebd1be5b18ee"
+    },
+    {
+      "path": "docs/fleet-measurement.md",
+      "bytes": 1319,
+      "sha256": "a69fedf649e12b820e10d9cad161fdfdd5e15f7b204dfb9b9d3be4a6333e634f"
     },
     {
       "path": "docs/known-limits.md",
@@ -208,6 +218,11 @@
       "path": "docs/loop-engineering.md",
       "bytes": 9371,
       "sha256": "eb4d2915763396ba9476c4bca1478c840981d9a8fa0e91736d45bd6727187122"
+    },
+    {
+      "path": "docs/mechanics-over-prose.md",
+      "bytes": 1906,
+      "sha256": "32ce08e2213f57034616e6203f45c930c77068877c39df5008102e89c9211f87"
     },
     {
       "path": "doctrine/contracts/goal-contract.md",
@@ -376,8 +391,8 @@
     },
     {
       "path": "doctrine/skills/agent-panel-review/reference/agent-strengths.md",
-      "bytes": 5026,
-      "sha256": "98fc3a056f8854fc36628b3c63e2a13fda19a21537a8df7ba531f291974997e0"
+      "bytes": 5040,
+      "sha256": "fe5e2db8edc78f32652715edc77d45abd9ec03b5fa9b49adee405d591ff5a8da"
     },
     {
       "path": "doctrine/skills/agent-panel-review/reference/critique-format.md",
